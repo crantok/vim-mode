@@ -60,6 +60,7 @@
   '<': 'vim-mode:outdent'
   '=': 'vim-mode:auto-indent'
   'J': 'vim-mode:join'
+  'ctrl-j': 'vim-mode:split-line'
 
   'y': 'vim-mode:yank'
   'Y': 'vim-mode:yank-line'
